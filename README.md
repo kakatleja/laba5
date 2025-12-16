@@ -3,8 +3,6 @@
 
 Тема: Работа с Excel-файлами и LINQ-запросы в C#
 
-1. Содержание классов
-2. 
 1.1 Client
 
 Свойства: Id, LastName, FirstName, Patronymic, City
